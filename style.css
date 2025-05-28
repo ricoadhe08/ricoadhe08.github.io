@@ -1,0 +1,67 @@
+.navbar {
+    background: #fff8f8;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    background: #ffffff;
+    color: #676576;
+}
+
+.intro {
+    background: #fff8f8;
+    padding: 60px 0;
+}
+
+.features .content {
+    border-radius: 15px;
+    padding: 50px 40px;
+    background: #333333;
+}
+.features .content .text h5 {
+    color: #ffffff;
+}
+.features .content .text p {
+    color: #676576;
+}
+
+
+
+.project {
+    background: #fff8f8;
+    padding: 60px 0 140px;
+}
+.project .title h3 {
+    color: #ff5252;
+    margin-bottom: 10px;
+}
+.project .text h5 {
+    color: #ff5252;
+}
+.project-image {width: 80vw;}
+
+
+
+.education {
+    padding: 60px 0 140px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    /* padding: 0;
+    margin: 0; */
+    color: #333333;
+}
+
+
+
+.contact {
+    padding: 60px 0;
+}
